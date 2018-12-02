@@ -6,6 +6,6 @@
  *
  */
 module ComputerProject {
-int a = 5;
+int a = 100;
 
 }
